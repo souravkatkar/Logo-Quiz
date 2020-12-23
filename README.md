@@ -9,3 +9,12 @@ Enjoy the music as well as sound while playing the game.
 
 ![Logo Quiz](https://user-images.githubusercontent.com/49206555/102966882-c9abab00-4516-11eb-84f8-551451d95b1e.gif)
 
+## Modules Used
+
+* PyGame
+* Pillow
+  * ImageTk
+* Tkinter
+* Winsound
+* Random
+* Time
