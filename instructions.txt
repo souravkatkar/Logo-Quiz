@@ -1,0 +1,9 @@
+How to Play:
+1.This is a guess the logo game with 20 logos to identify.
+2.Each logo displayed will have four options.
+  Out of them only one will be correct.
+3.If you select the right option your score will be incremented
+  and next logo will be displayed.
+4.If you select the wrong option you would lose. 
+  You have only one life. 
+             So play well!!!! 
