@@ -7,7 +7,9 @@ Enjoy the music as well as sound while playing the game.
 
 ## Visualization
 
-![Logo Quiz](https://user-images.githubusercontent.com/49206555/102966882-c9abab00-4516-11eb-84f8-551451d95b1e.gif)
+![Logo Quiz](https://user-images.githubusercontent.com/49206555/102994227-b0215800-4544-11eb-83c5-b6b67e24ca67.gif)
+
+
 
 ## Modules Used
 
